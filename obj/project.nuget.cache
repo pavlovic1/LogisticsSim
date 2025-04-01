@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "454LhkKzYajXY3L3zu/I8kPyRNPFcODc3wnt8SR6AKIodZZlnpZ0jgaRsyyl1P4nWFCgEa71DQbwV2BBksKVmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\honza\\source\\repos\\LogisticsSim\\LogisticsSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\honza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\honza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\honza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\honza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
